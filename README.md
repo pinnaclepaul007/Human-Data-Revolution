@@ -2,7 +2,7 @@
 
 ![image](https://github.com/pinnaclepaul007/Human-Data-Revolution/assets/105908253/f6f065e4-ad51-4c09-a7dc-c6bf927e7246)
 
-# Are we human beings or data beings?
+# Human or data beings?
 
 Beneath the surface of flesh and bones lies a complex tapestry of information, constantly interacting and evolving. Now, data is a big part of who we are and integral to our existence. We're gradually evolving, and everything about our being is becoming a numerical identifier. As the world evolves, our traditional identifiers (names) are gradually being substituted with codes or numbers that serve as a contemporary representation of our identity.
 
@@ -52,6 +52,7 @@ The fashion industry has increasingly embraced the use of data to enhance the de
 ![image](https://github.com/pinnaclepaul007/Human-Data-Revolution/assets/105908253/5dc26f4e-6d47-458b-a594-4a0e45375f08)
 
 Social Media Interactions: Likes, views, and engagements on social media platforms are governed by algorithms that analyse user behaviour. These algorithms determine the content displayed on users' feeds, creating a feedback loop where the content is tailored to individual interests and preferences.
+
 E-Commerce: Online shopping platforms utilise data to understand consumer preferences, leading to personalised product recommendations. This data-driven approach enhances user satisfaction and promotes a more efficient and enjoyable shopping experience.
 
 These technologies have become integral to our lives, acting as constant data sources that shape our digital experiences.
@@ -70,4 +71,8 @@ When biometrics is used for data collection, a person's unique characteristics a
 The genetic code encoded within our DNA is a fundamental form of biological data, containing the instructions that govern living organisms' development, functioning, and inheritance. DNA is a complex and highly organised code that carries hereditary information passed from generation to generation. It serves as a molecular blueprint, encoding the instructions for synthesising proteins and regulating various cellular processes.
 
 
-In the age of data, humans can be viewed as a data repository. Recognising the depth of our data chain opens new avenues for exploring the human experience and underscores the interconnectedness of data in shaping our past, present, and future.
+
+Conclusively, there are other areas where data has influenced our endeavours that are not captured in this article. However, in the age of data, humans can be viewed as data repositories that span every aspect of life. Recognising the depth of our data chain opens new avenues for exploring the human experience and underscores the interconnectedness of data in shaping our past, present, and future.
+
+Thank you for reading through. I hope you find this piece worth reading and insightful.
+You can reach me on Twitter [@pinnacle_paul](https://twitter.com/pinnacle_paul) and LinkedIn [@PaulAderounmu](https://www.linkedin.com/in/pauladerounmu)
